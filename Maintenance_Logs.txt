@@ -1,0 +1,57 @@
+====================================================================================
+PLANT ASSET MAINTENANCE LOG REGISTRY (HISTORICAL TRACE) - UNIT STATION B
+====================================================================================
+
+[LOG-1042] Date: 2024-05-12 | Asset ID: Centrifugal Pump Unit-04
+Issue Reported: High vibration recorded at 4.8 mm/s. Fluid Temp: 43°C.
+Action Taken: Senior Engineer Ramesh Sharma inspected the structural base. Found two anchor foundation bolts loose due to thermal expansion. Realignment performed with laser tracking alignment tool, base foundation anchor bolts replaced and torqued to spec. System stabilized.
+Status: RESOLVED | Technician: R. Sharma | Sign-off: Approved
+
+[LOG-1089] Date: 2024-07-22 | Asset ID: Centrifugal Pump Unit-04
+Issue Reported: High-pitched mechanical whining noise coming from pump housing block.
+Action Taken: Inspected internal bearings. Lubrication level was depleted. Re-greased drive end and non-drive end bearings using high-temperature industrial lubricant. Whining noise resolved immediately. Flow rate returned to baseline parameters.
+Status: RESOLVED | Technician: A. Khan | Sign-off: Approved
+
+[LOG-1150] Date: 2024-09-15 | Asset ID: Centrifugal Pump Unit-04
+Issue Reported: Suction side pressure dropping below normal atmospheric operational margins.
+Action Taken: Shut down unit and checked intake. Found heavy mud, weeds, and plastic debris blocking the primary inlet suction strainer basket. Cleaned strainer assembly via high-pressure water backwash stream. Flow efficiency restored to 98%.
+Status: RESOLVED | Technician: M. Reddy | Sign-off: Approved
+
+[LOG-1210] Date: 2024-11-18 | Asset ID: Centrifugal Pump Unit-04
+Issue Reported: Minor fluid weeping/leakage detected around the main shaft assembly area.
+Action Taken: Inspected mechanical seal faces. Found slight scoring due to grit particulate entry. Replaced the primary mechanical shaft face seal assembly and adjusted gland tension. No further leakage observed during 2-hour pressure test run.
+Status: RESOLVED | Technician: R. Sharma | Sign-off: Approved
+
+[LOG-1302] Date: 2025-01-10 | Asset ID: Centrifugal Pump Unit-04
+Issue Reported: Routine Preventative Maintenance (PM) Window - Q1 Schedule.
+Action Taken: Maintenance Team B completed full diagnostic check. Replaced worn casing gaskets, verified electrical terminal tightness, checked oil levels in bearing housing, and cleaned exterior heat dissipation fins. 
+Status: COMPLETED | Technician: Team B | Sign-off: Approved
+
+[LOG-1415] Date: 2025-03-05 | Asset ID: Centrifugal Pump Unit-04
+Issue Reported: Core electric motor drawing high current (72 Amps vs normal 55 Amps).
+Action Taken: Checked winding insulation and coupling. Discovered minor shaft misalignment pushing extra load on the motor. Corrected alignment manually. Motor current draw dropped back down to 54.5 Amps.
+Status: RESOLVED | Technician: S. Das | Sign-off: Approved
+
+[LOG-1522] Date: 2025-05-20 | Asset ID: Centrifugal Pump Unit-04
+Issue Reported: Flow rate discharge fluctuations under peak load shifts.
+Action Taken: Calibrated discharge control valve actuator mechanism. Cleaned the pneumatic signal air filter line which had small moisture blockages causing inconsistent valve positioning.
+Status: RESOLVED | Technician: J. Patil | Sign-off: Approved
+
+[LOG-1680] Date: 2025-08-14 | Asset ID: Centrifugal Pump Unit-04
+Issue Reported: Sudden vibration spike to 4.9 mm/s. Ambient room temp: 42°C.
+Action Taken: Checked foundation base structure. Confirmed loose anchor foundation bolts exactly matching the trend from Log-1042. Re-tightened bolts and added dual locking split washers to counter thermal shift loosening.
+Status: RESOLVED | Technician: R. Sharma | Sign-off: Approved
+
+[LOG-1745] Date: 2025-10-11 | Asset ID: Centrifugal Pump Unit-04
+Issue Reported: Digital SCADA control panel losing connectivity telemetry signal periodically.
+Action Taken: Traced the instrumentation wiring harness. Found a corroded ground shielding wire inside the junction terminal box. Clipped wire, re-terminated, and sealed box with industrial moisture-proof dielectric gel.
+Status: RESOLVED | Technician: K. Verma | Sign-off: Approved
+
+[LOG-1911] Date: 2026-02-28 | Asset ID: Centrifugal Pump Unit-04
+Issue Reported: Periodic low-volume knocking sounds inside the pump impeller chamber (Possible Cavitation).
+Action Taken: Discovered that an upstream supply valve was partially closed, restricting fluid inflow and causing microscopic vapor bubbles to collapse. Fully opened the supply valve; knocking sound stopped completely.
+Status: RESOLVED | Technician: M. Reddy | Sign-off: Approved
+
+====================================================================================
+END OF SYSTEM TRACE FILTERS
+====================================================================================
